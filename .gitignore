@@ -1,0 +1,7 @@
+###过滤的文件夹
+/view
+
+###过滤的文件
+.VimballRecord
+.netrwhist
+.netrwhist~
